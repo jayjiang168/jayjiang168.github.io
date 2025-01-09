@@ -16,6 +16,14 @@ socks5-listen = 0.0.0.0:6153
 wifi-access-http-port = 6152
 wifi-access-socks5-port = 6153
 
+[Host]
+cache.ott.ystenlive.itv.cmvideo.cn = ystenlive.z295.com
+cache.ott.bestlive.itv.cmvideo.cn = bestlive.z295.com
+cache.ott.wasulive.itv.cmvideo.cn = wasulive.z295.com
+cache.ott.fifalive.itv.cmvideo.cn = fifalive.z295.com
+cache.ott.hnbblive.itv.cmvideo.cn = hnbblive.z295.com
+
+
 [Script]
 http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
 
