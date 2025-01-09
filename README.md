@@ -15,7 +15,6 @@ http-listen = 0.0.0.0:6152
 socks5-listen = 0.0.0.0:6153
 wifi-access-http-port = 6152
 wifi-access-socks5-port = 6153
-
 [Host]
 cache.ott.ystenlive.itv.cmvideo.cn = ystenlive.z295.com
 cache.ott.bestlive.itv.cmvideo.cn = bestlive.z295.com
